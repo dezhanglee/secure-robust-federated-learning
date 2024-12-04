@@ -1,0 +1,12 @@
+Malicious node indices: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19] Attack Type: modelpoisoning
+Round:  0
+agg: average
+
+Malicious set: Accuracy: 9.8300, Attack Success Rate: 4/10 (40%)
+
+Round:  1
+agg: average
+
+Malicious set: Accuracy: 14.0200, Attack Success Rate: 4/10 (40%)
+
+Round:  2
